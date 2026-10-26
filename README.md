@@ -1,6 +1,6 @@
 # Hi, I'm Rutuja👋
 
-**M.Sc. Statistics | Trainee Clinical Statistical Programmer**
+**Master's in Statistics | Trainee Clinical Statistical Programmer**
 
 I work with clinical trial data using **SAS, R and SQL**, following **CDISC SDTM/ADaM** standards. I'm currently a Trainee Statistical Programmer, building practical experience in data validation, analysis datasets and TLF reporting.
 
