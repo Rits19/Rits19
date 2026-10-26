@@ -1,4 +1,4 @@
-# Hi, I'm Rutuja Chougale 👋
+# Hi, I'm Rutuja👋
 
 **M.Sc. Statistics | Trainee Clinical Statistical Programmer**
 
