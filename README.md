@@ -26,4 +26,4 @@ I work with clinical trial data using **SAS, R and SQL**, following **CDISC SDTM
 ## 🎯 Currently
 
 - Working towards SAS Base Programming Certification
-- Looking for entry-level Statistical Programmer, Clinical SAS Programmer or Biostatistics roles
+- Looking for Statistical Programmer, Clinical SAS Programmer or Biostatistics roles
