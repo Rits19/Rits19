@@ -16,7 +16,7 @@ I work with clinical trial data using **SAS, R and SQL**, following **CDISC SDTM
 - **Adverse Events Summary & Listing (SAS/R):** AE summaries and listings from CDISC pilot ADAE data
 - **Survival Analysis (R/SAS):** Kaplan–Meier, log-rank test and Cox regression on heart-failure clinical records
 
-*(Links will be added as I upload each project.)*
+
 
 ## 📫 Connect with me
 
