@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Rutuja Chougale 👋
 
-<!--
-**Rits19/Rits19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M.Sc. Statistics | Aspiring Clinical Statistical Programmer**
 
-Here are some ideas to get you started:
+I work with clinical trial data using **SAS, R and SQL**, following **CDISC SDTM/ADaM** standards. I'm currently a Trainee Statistical Programmer, building practical experience in data validation, analysis datasets and TLF reporting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Programming:** SAS (DATA step, PROC SQL, PROC MEANS/FREQ/REPORT/LIFETEST), R (tidyverse), SQL
+- **Clinical Standards:** CDISC SDTM, ADaM, TLFs
+- **Statistics:** Descriptive statistics, hypothesis testing, ANOVA, regression, Kaplan–Meier, log-rank test, Cox regression
+
+## 📊 Projects
+
+- **Baseline Demographics Table (SAS/R):** summary table by treatment arm using CDISC pilot ADSL data
+- **Adverse Events Summary & Listing (SAS/R):** AE summaries and listings from CDISC pilot ADAE data
+- **Survival Analysis (R/SAS):** Kaplan–Meier, log-rank test and Cox regression on heart-failure clinical records
+
+*(Links will be added as I upload each project.)*
+
+## 📫 Connect with me
+
+- LinkedIn: [linkedin.com/in/rits19](https://www.linkedin.com/in/rits19)
+- Email: rutujachougale19@gmail.com
+
+## 🎯 Currently
+
+- Working towards SAS Base Programming Certification
+- Looking for entry-level Statistical Programmer, Clinical SAS Programmer or Biostatistics roles
