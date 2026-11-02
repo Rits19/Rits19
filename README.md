@@ -14,7 +14,7 @@ I work with clinical trial data using **SAS, R and SQL**, following **CDISC SDTM
 
 - [**Baseline Demographics Table (SAS/R)**](https://github.com/Rits19/baseline-demographics-table): summary table by treatment arm using CDISC pilot ADSL data
 - **Adverse Events Summary & Listing (SAS/R):** AE summaries and listings from CDISC pilot ADAE data
-- [**Heart Failure Survival Analysis (R)**](https://github.com/Rits19/heart-failure-survival-analysis): Kaplan–Meier, log-rank test and Cox regression on heart-failure clinical records
+- [**Heart Failure Survival Analysis (R/SAS)**](https://github.com/Rits19/heart-failure-survival-analysis): Kaplan–Meier, log-rank test and Cox regression on heart-failure clinical records
 
 
 ## 📫 Connect with me
