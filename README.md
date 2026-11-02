@@ -1,6 +1,6 @@
 
 <!-- ===================================================== -->
-<!-- RUTUJA CHOUGALE | GITHUB PROFILE -->
+<!-- RUTUJA C. | GITHUB PROFILE -->
 <!-- ===================================================== -->
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 ### Turning data into meaningful insights.
 
-**M.Sc. Statistics** &nbsp;·&nbsp; Data Analytics &nbsp;·&nbsp; Clinical Research
+**Master's in Statistics** &nbsp;·&nbsp; Statistical Programming &nbsp;·&nbsp; Clinical Trials
 
 <br/>
 
