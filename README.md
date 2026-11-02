@@ -31,7 +31,7 @@
 
 ---
 
-## 01 / ABOUT
+## ABOUT
 
 I am a Statistics postgraduate interested in the intersection of **statistical methods, data analytics and clinical research**.
 
@@ -45,7 +45,7 @@ I enjoy learning by working through structured projects, understanding the metho
 
 ---
 
-## 02 / AREAS OF INTEREST
+## AREAS OF INTEREST
 
 <table>
 <tr>
@@ -74,7 +74,7 @@ I enjoy learning by working through structured projects, understanding the metho
 
 ---
 
-## 03 / TOOLS & TECHNOLOGIES
+## TOOLS & TECHNOLOGIES
 
 | Category | Tools & concepts |
 |:--|:--|
@@ -94,7 +94,7 @@ I enjoy learning by working through structured projects, understanding the metho
 
 ---
 
-## 04 / SELECTED PROJECTS
+## SELECTED PROJECTS
 
 A collection of hands-on projects exploring statistical programming, clinical data and analytical methods.
 
@@ -151,7 +151,7 @@ A survival analysis of heart-failure patient records using time-to-event methods
 
 ---
 
-## 05 / CURRENT LEARNING
+## CURRENT LEARNING
 
 I believe in building a strong foundation before moving towards complex implementations.
 
@@ -165,7 +165,7 @@ I believe in building a strong foundation before moving towards complex implemen
 
 ---
 
-## 06 / BEYOND THE CODE
+## BEYOND THE CODE
 
 - Understanding the statistical reasoning behind analytical methods.
 - Exploring how data supports research and decision-making.
@@ -174,7 +174,7 @@ I believe in building a strong foundation before moving towards complex implemen
 
 ---
 
-## 07 / LET'S CONNECT
+## LET'S CONNECT
 
 Interested in statistics, data analytics, clinical research or collaborative learning?
 
