@@ -9,7 +9,7 @@
 
 <br/>
 
-### Data & insights.
+### Data & Insights
 
 **Master's in Statistics** &nbsp;·&nbsp; Statistical Programming &nbsp;·&nbsp; Clinical Trials
 
