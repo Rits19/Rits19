@@ -1,4 +1,9 @@
-# rutuja.
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1500&color=8B5CF6&center=true&vCenter=true&repeat=true&width=460&height=60&lines=Hi%2C+I%27m+Rutuja+%F0%9F%91%8B)
+
+*Master's in Statistics* &nbsp;·&nbsp; Statistical Programming &nbsp;·&nbsp; Clinical Trials
+
 
 <p align="center">
   <sub>STATISTICS &nbsp; / &nbsp; DATA &nbsp; / &nbsp; RESEARCH</sub>
