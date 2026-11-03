@@ -1,114 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1E293B,100:312E81&height=110&section=header&text=Rutuja%20Chougale&fontSize=30&fontColor=F8FAFC&fontAlignY=42&desc=STATISTICAL%20PROGRAMMING%20%7C%20SAS%20%7C%20R%20%7C%20CDISC&descSize=12&descAlignY=68&descColor=C4B5FD" width="100%" />
-
-**Aspiring Clinical Statistical Programmer** &nbsp;·&nbsp; M.Sc. Statistics
-
-*Every result checked twice, in R and in SAS.*
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&height=50&lines=Hi%2C+I%27m+Rutuja+Chougale+%F0%9F%91%8B;Aspiring+Clinical+Statistical+Programmer;SAS+%7C+R+%7C+SQL+%7C+CDISC;Every+result+checked+twice)
 
 <a href="https://www.linkedin.com/in/rits19/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-334155?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/-Rutuja%20Chougale-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
 <a href="mailto:rutujachougale19@gmail.com">
-<img src="https://img.shields.io/badge/Email-Get%20in%20touch-334155?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/-Email-334155?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-
-<sub>Open to: Statistical Programmer · Clinical SAS Programmer · Biostatistics</sub>
 
 </div>
 
----
+Hi, I'm Rutuja, an **`Aspiring Clinical Statistical Programmer`** with an M.Sc. in Statistics, based in Mumbai, India.
 
-## ABOUT
+**About my work:**
 
-I work with clinical trial data in **SAS and R**, following **CDISC SDTM / ADaM** standards. I build tables, listings and analyses, and I check each one against a second source.
+- 🧬 I work with clinical trial data in `SAS` and `R`, following `CDISC SDTM / ADaM`
+- ✅ I check every result twice: R against SAS, and my code against official datasets
+- 📐 I like the statistics behind the numbers: `Kaplan–Meier` · `Cox regression` · `ANOVA` · `Fisher's exact test`
+- 🌱 Currently working towards the `SAS Base Programming` certification
+- 🎯 Open to **Statistical Programmer**, **Clinical SAS Programmer** and **Biostatistics** roles
 
----
+**Projects:**
 
-## SELECTED PROJECTS
+- 👥 [**Baseline Demographics Table**](https://github.com/Rits19/baseline-demographics-table) `SAS` `R`: R and SAS gave identical results
+- ⏳ [**Heart Failure Survival Analysis**](https://github.com/Rits19/heart-failure-survival-analysis) `R` `SAS`: low ejection fraction linked to worse survival (log-rank p = 0.002)
+- ⚠️ [**Adverse Events Summary & Listing**](https://github.com/Rits19/adverse-events-summary-listing) `SAS` `R`: my flag matched the official ADAE on all 1,191 events
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Languages and tools:**
 
-### 01. Baseline Demographics
+<img src="https://img.shields.io/badge/SAS-0066B2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-334155?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CDISC-7C3AED?style=for-the-badge" />
 
-**ADSL · SAS + R**
+<br/>
 
-Baseline summary by treatment arm with ANOVA and chi-square tests.
-
-**Result:** R and SAS gave identical results (254 treated patients).
-
-<a href="https://github.com/Rits19/baseline-demographics-table">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-312E81?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 02. Survival Analysis
-
-**Time-to-event · R + SAS**
-
-Kaplan–Meier, log-rank test and Cox regression on heart-failure records.
-
-**Result:** low ejection fraction linked to worse survival (log-rank p = 0.002); R and SAS matched.
-
-<a href="https://github.com/Rits19/heart-failure-survival-analysis">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-312E81?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 03. Adverse Events Summary & Listing
-
-**SDTM → analysis dataset · SAS + R**
-
-Treatment-emergent AE flag built from SDTM, then a summary table, a listing and Fisher's exact test (PROC SQL, PROC REPORT).
-
-**Result:** my flag matched the official ADAE on all 1,191 events; 94% of high-dose patients had at least one treatment-emergent AE, against 76% on Placebo.
-
-<a href="https://github.com/Rits19/adverse-events-summary-listing">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-312E81?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## STATISTICS IN PRACTICE
-
-| Concept | Where I used it |
-|:--|:--|
-| **Censoring** and survival curves | Kaplan–Meier: patients still alive at the end of follow-up still count |
-| **Hazard ratios** and the proportional hazards check | Cox regression; ejection fraction showed a mild warning (p = 0.036) |
-| **Hypothesis tests**: ANOVA, chi-square, Fisher's exact, log-rank | All three projects |
-| **Denominators**: counting patients, not events | AE summary: a patient counts once per body system |
-| **Population selection** | Safety population: treated patients only, Screen Failures excluded |
-| **Confidence intervals** and honest limits | Every result reported with its uncertainty and a Limitations section |
-
----
-
-## SKILLS
-
-| | |
-|:--|:--|
-| **SAS** | DATA step · PROC SQL · MEANS · FREQ · GLM · REPORT · LIFETEST · PHREG |
-| **R** | dplyr · tidyr · survival |
-| **SQL** | Queries · joins · aggregations |
-| **Clinical standards** | CDISC SDTM · ADaM · TLFs |
-| **Quality control** | Double programming: R vs SAS, and my flag vs the official ADAE |
-
-<sub>Currently working towards the SAS Base Programming certification.</sub>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:312E81,100:111827&height=40&section=footer" width="100%" />
-
-</div>
+<sub>🔍 Curious about data. Grounded in statistics. Always learning.</sub>
