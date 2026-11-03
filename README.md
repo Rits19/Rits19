@@ -6,10 +6,6 @@
 
 
 <p align="center">
-  <sub>STATISTICS &nbsp; / &nbsp; DATA &nbsp; / &nbsp; RESEARCH</sub>
-</p>
-
-<p align="center">
   <i>A curious mind, finding meaning in data.</i>
 </p>
 
