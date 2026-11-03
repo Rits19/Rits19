@@ -16,12 +16,6 @@
 <img src="https://img.shields.io/badge/GitHub-Rits19-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:EC4899&height=3" width="100%" />
-
 ## 🧬 ABOUT
 
 I am a Statistics postgraduate working in **statistical programming and clinical research**. I build tables, listings and analyses from clinical trial data in **SAS and R**, following **CDISC SDTM / ADaM** standards.
