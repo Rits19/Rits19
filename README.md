@@ -18,10 +18,6 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Projects-3-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Every%20project-R%20%2B%20SAS-EC4899?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ADAE%20QC-1%2C191%20of%201%2C191%20match-10B981?style=for-the-badge" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:EC4899&height=3" width="100%" />
