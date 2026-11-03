@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1500&color=8B5CF6&center=true&vCenter=true&repeat=true&width=460&height=60&lines=Hi%2C+I'm+Rutuja+%F0%9F%91%8B" alt="Typing SVG" />
@@ -19,9 +19,9 @@
 
 ---
 
-### a little about my world
+### a little about my work
 
-I'm Rutuja — a Statistics postgraduate interested in the stories, patterns and insights hidden within data.
+I'm Rutuja, a Statistics postgraduate interested in the stories, patterns and insights hidden within data.
 
 My interests lie at the intersection of statistical thinking, data analysis and clinical research. I enjoy exploring how numbers connect to real-world questions and how thoughtful analysis can make information more meaningful.
 
@@ -43,7 +43,7 @@ Exploring statistical programming, data manipulation, clinical data structures a
 
 ### a little about my work
 
-I use personal and practice-based projects to turn concepts into practical learning experiences — from exploring baseline characteristics to understanding survival analysis.
+I use personal and practice-based projects to turn concepts into practical learning experiences - from exploring baseline characteristics to understanding survival analysis.
 
 Each project is an opportunity to apply statistical methods, experiment with programming tools and document what I learn along the way.
 
@@ -53,14 +53,13 @@ Each project is an opportunity to apply statistical methods, experiment with pro
 
 ### a thought I believe in
 
-<p align="center">
+<div align="center">
   <i>"Good analysis is not just about finding answers.<br/>
   It's about asking better questions."</i>
-</p>
+</div>
 
 ---
 
 <div align="center">
   <sub>Learning as I go. One question, one dataset, one discovery at a time.</sub>
 </div>
-```
