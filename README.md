@@ -1,15 +1,15 @@
 
 <!-- ===================================================== -->
-<!-- RUTUJA C. | GITHUB PROFILE -->
+<!-- RUTUJA | GITHUB PROFILE -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1E293B,100:312E81&height=190&section=header&text=Rutuja%20Chougale&fontSize=43&fontColor=F8FAFC&fontAlignY=40&desc=STATISTICS%20%7C%20DATA%20%7C%20RESEARCH&descSize=14&descAlignY=65&descColor=C4B5FD" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1E293B,100:312E81&height=190&section=header&text=Rutuja%20&fontSize=43&fontColor=F8FAFC&fontAlignY=40&desc=STATISTICS%20%7C%20DATA%20%7C%20RESEARCH&descSize=14&descAlignY=65&descColor=C4B5FD" width="100%" />
 
 <br/>
 
-### Turning data into meaningful insights.
+### Turning & insights.
 
 **Master's in Statistics** &nbsp;·&nbsp; Statistical Programming &nbsp;·&nbsp; Clinical Trials
 
