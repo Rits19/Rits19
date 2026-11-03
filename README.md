@@ -16,6 +16,12 @@
 <img src="https://img.shields.io/badge/GitHub-Rits19-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
+<br/><br/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:EC4899&height=3" width="100%" />
+
 ## 🧬 ABOUT
 
 I am a Statistics postgraduate working in **statistical programming and clinical research**. I build tables, listings and analyses from clinical trial data in **SAS and R**, following **CDISC SDTM / ADaM** standards.
@@ -193,4 +199,26 @@ A treatment-emergent adverse event summary and listing, built from SDTM data and
 | SAS | Base SAS programming certification |
 | R | Statistical analysis and reporting |
 | SQL | Queries, joins and aggregations |
-| Clinical Programming | SDTM / ADaM dataset
+| Clinical Programming | SDTM / ADaM dataset building and TLF development |
+| Statistics | Applying statistical concepts to real trial data |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:EC4899&height=3" width="100%" />
+
+## 🤝 LET'S CONNECT
+
+Interested in clinical programming, biostatistics or statistics? I'm happy to connect and learn from the community.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rits19/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:rutujachougale19@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<sub>🔍 Careful with data. Clear about the statistics. Always learning.</sub>
+
+</div>
