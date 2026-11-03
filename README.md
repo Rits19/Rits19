@@ -5,15 +5,22 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1E293B,100:312E81&height=190&section=header&text=Rutuja%20&fontSize=43&fontColor=F8FAFC&fontAlignY=40&desc=STATISTICS%20%7C%20DATA%20%7C%20RESEARCH&descSize=14&descAlignY=65&descColor=C4B5FD" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1E293B,100:312E81&height=190&section=header&text=Rutuja%20Chougale&fontSize=43&fontColor=F8FAFC&fontAlignY=40&desc=SAS%20%7C%20R%20%7C%20SQL%20%7C%20CDISC&descSize=14&descAlignY=65&descColor=C4B5FD" width="100%" />
 
 <br/>
 
-### Data & Insights
+### Clinical Statistical Programmer
 
 **Master's in Statistics** &nbsp;·&nbsp; Statistical Programming &nbsp;·&nbsp; Clinical Trials
 
 <br/>
+
+<img src="https://img.shields.io/badge/SAS-334155?style=flat-square" />
+<img src="https://img.shields.io/badge/R-334155?style=flat-square&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-334155?style=flat-square" />
+<img src="https://img.shields.io/badge/CDISC-334155?style=flat-square" />
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/rits19/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-334155?style=flat-square&logo=linkedin&logoColor=white" />
@@ -27,17 +34,21 @@
 <img src="https://img.shields.io/badge/GitHub-Rits19-334155?style=flat-square&logo=github&logoColor=white" />
 </a>
 
+<br/><br/>
+
+**Open to:** Statistical Programmer · Clinical SAS Programmer · Biostatistics roles
+
 </div>
 
 ---
 
 ## ABOUT
 
-I am a Statistics postgraduate interested in the intersection of **statistical methods, data analytics and clinical research**.
+I am a Statistics postgraduate interested in the intersection of **statistical methods, data analytics and clinical research**. I currently work as a Trainee Statistical Programmer, supporting data validation and reporting.
 
 My academic foundation in Statistics has shaped the way I approach data — from understanding distributions and identifying patterns to interpreting results and communicating findings.
 
-I am currently developing practical programming skills in **R, SAS and SQL**, with a growing interest in clinical data workflows, statistical analysis, data quality and reporting.
+I am developing practical programming skills in **R, SAS and SQL**, with a growing interest in clinical data workflows, statistical analysis, data quality and reporting.
 
 I enjoy learning by working through structured projects, understanding the methodology behind an analysis, and documenting the reasoning behind the results.
 
@@ -80,17 +91,11 @@ I enjoy learning by working through structured projects, understanding the metho
 |:--|:--|
 | Statistical Programming | SAS · R |
 | Data Querying | SQL |
-| R Ecosystem | tidyverse · dplyr · ggplot2 |
-| SAS Procedures | DATA Step · PROC SQL · MEANS · FREQ · LIFETEST |
+| R Ecosystem | tidyverse · dplyr · tidyr |
+| SAS Procedures | DATA Step · PROC SQL · MEANS · FREQ · GLM · LIFETEST · PHREG · REPORT |
 | Clinical Data | SDTM · ADaM · TLF fundamentals |
 | Statistics | Hypothesis Testing · ANOVA · Regression · Survival Analysis |
 | Data Reporting | Excel · Data Visualisation |
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=r,mysql,git,github&theme=dark" />
-
-</div>
 
 ---
 
@@ -112,7 +117,9 @@ A treatment-arm-wise baseline demographics summary using CDISC pilot ADSL data.
 - Safety population selection
 - Age, sex and race summaries
 - PROC MEANS and PROC FREQ
-- Cross-validation of R and SAS results
+- ANOVA and chi-square tests
+
+**Result:** R and SAS gave identical results (254 treated patients).
 
 <a href="https://github.com/Rits19/baseline-demographics-table">
 <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-312E81?style=for-the-badge&logo=github&logoColor=white" />
@@ -131,9 +138,34 @@ A survival analysis of heart-failure patient records using time-to-event methods
 - Kaplan–Meier estimation
 - Log-rank test
 - Cox proportional hazards model
-- Model interpretation and validation
+- Proportional hazards check
+
+**Result:** low ejection fraction linked to worse survival (log-rank p = 0.002); R and SAS matched.
 
 <a href="https://github.com/Rits19/heart-failure-survival-analysis">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-312E81?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 03. Adverse Events Summary & Listing
+
+**Clinical Safety Data | SAS + R**
+
+A treatment-emergent adverse event summary and listing, built from SDTM data and checked against the official ADAE.
+
+**Explores**
+- Building the AE analysis dataset from SDTM
+- Treatment-emergent flag with a 30-day window
+- Summary table, listing and Fisher's exact test
+- PROC SQL, PROC REPORT and double-programming QC
+
+**Result:** my flag matched the official ADAE on all 1,191 events; 94% of high-dose patients had at least one treatment-emergent AE, against 76% on Placebo.
+
+<a href="https://github.com/Rits19/adverse-events-summary-listing">
 <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-312E81?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -157,10 +189,10 @@ I believe in building a strong foundation before moving towards complex implemen
 
 | Focus | Learning direction |
 |:--|:--|
-| SAS | DATA step, procedures and Base SAS programming |
+| SAS | Base SAS programming certification |
 | R | Data manipulation, statistical analysis and visualisation |
 | SQL | Queries, joins, aggregations and analytical problem-solving |
-| Clinical Programming | SDTM / ADaM concepts and TLF development |
+| Clinical Programming | SDTM / ADaM dataset building and TLF development |
 | Statistics | Applying statistical concepts to real-world datasets |
 
 ---
