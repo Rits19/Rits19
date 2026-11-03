@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1E293B,100:312E81&height=190&section=header&text=Rutuja%20Chougale&fontSize=43&fontColor=F8FAFC&fontAlignY=40&desc=SAS%20%7C%20R%20%7C%20SQL%20%7C%20CDISC&descSize=14&descAlignY=65&descColor=C4B5FD" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1E293B,100:312E81&height=190&section=header&text=Rutuja%20&fontSize=43&fontColor=F8FAFC&fontAlignY=40&desc=SAS%20%7C%20R%20%7C%20SQL%20%7C%20CDISC&descSize=14&descAlignY=65&descColor=C4B5FD" width="100%" />
 
 <br/>
 
