@@ -1,34 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1E293B,100:312E81&height=110&section=header&text=Rutuja%20Chougale&fontSize=30&fontColor=F8FAFC&fontAlignY=42&desc=STATISTICAL%20PROGRAMMING%20%7C%20CLINICAL%20TRIALS&descSize=12&descAlignY=68&descColor=C4B5FD" width="100%" />
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&height=45&lines=Hi%2C+I%27m+Rutuja+%F0%9F%91%8B;SAS+%7C+R+%7C+SQL+%7C+CDISC;Every+result+checked+twice)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1500&color=8B5CF6&center=true&vCenter=true&repeat=true&width=460&height=60&lines=Hi%2C+I%27m+Rutuja+%F0%9F%91%8B)
 
 **Master's in Statistics** &nbsp;·&nbsp; Statistical Programming &nbsp;·&nbsp; Clinical Trials
 
 <a href="https://www.linkedin.com/in/rits19/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-334155?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:rutujachougale19@gmail.com">
-<img src="https://img.shields.io/badge/Email-Get%20in%20touch-334155?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/Rits19">
-<img src="https://img.shields.io/badge/GitHub-Rits19-334155?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Rits19-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Projects-3-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Every%20project-R%20%2B%20SAS-EC4899?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ADAE%20QC-1%2C191%20of%201%2C191%20match-10B981?style=for-the-badge" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:EC4899&height=3" width="100%" />
 
 ## 🧬 ABOUT
 
 I am a Statistics postgraduate working in **statistical programming and clinical research**. I build tables, listings and analyses from clinical trial data in **SAS and R**, following **CDISC SDTM / ADaM** standards.
 
 My academic foundation in Statistics shapes how I approach data, from understanding distributions and spotting patterns to interpreting results and communicating findings.
-
-**What I care about:**
 
 - ✅ Checking every result twice: R against SAS, and my code against official datasets
 - 📐 Understanding the statistics behind a number before reporting it
@@ -37,7 +39,19 @@ My academic foundation in Statistics shapes how I approach data, from understand
 
 > Grounded in statistics. Careful with data. Always learning.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:EC4899&height=3" width="100%" />
+
+## 🔄 HOW I WORK
+
+```mermaid
+flowchart LR
+    A[SDTM data] --> B[Analysis dataset]
+    B --> C[Tables, listings, figures]
+    C --> D[Double check: R vs SAS]
+    D --> E[Documented results]
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:EC4899&height=3" width="100%" />
 
 ## 🔬 AREAS OF INTEREST
 
@@ -45,7 +59,7 @@ My academic foundation in Statistics shapes how I approach data, from understand
 <tr>
 <td width="50%" valign="top">
 
-### Statistical Analysis
+### 📈 Statistical Analysis
 - Descriptive statistics
 - Probability & distributions
 - Hypothesis testing
@@ -55,7 +69,7 @@ My academic foundation in Statistics shapes how I approach data, from understand
 </td>
 <td width="50%" valign="top">
 
-### Clinical Research
+### 🏥 Clinical Research
 - Clinical trial data concepts
 - CDISC SDTM / ADaM
 - Tables, Listings & Figures (TLFs)
@@ -66,7 +80,7 @@ My academic foundation in Statistics shapes how I approach data, from understand
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:EC4899&height=3" width="100%" />
 
 ## 🛠️ TOOLS & TECHNOLOGIES
 
@@ -84,12 +98,12 @@ My academic foundation in Statistics shapes how I approach data, from understand
 
 <img src="https://img.shields.io/badge/SAS-0066B2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-334155?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-F29111?style=for-the-badge" />
 <img src="https://img.shields.io/badge/CDISC-7C3AED?style=for-the-badge" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:EC4899&height=3" width="100%" />
 
 ## 📊 STATISTICS IN PRACTICE
 
@@ -102,7 +116,7 @@ My academic foundation in Statistics shapes how I approach data, from understand
 | **Population selection** | Safety population: treated patients only, Screen Failures excluded |
 | **Confidence intervals** and honest limits | Every result has its uncertainty and a Limitations section |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:EC4899&height=3" width="100%" />
 
 ## 🚀 SELECTED PROJECTS
 
@@ -128,7 +142,7 @@ A treatment-arm-wise baseline demographics summary using CDISC pilot ADSL data.
 **Result:** R and SAS gave identical results (254 treated patients).
 
 <a href="https://github.com/Rits19/baseline-demographics-table">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-312E81?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -150,7 +164,7 @@ A survival analysis of heart-failure patient records using time-to-event methods
 **Result:** low ejection fraction linked to worse survival (log-rank p = 0.002); R and SAS matched.
 
 <a href="https://github.com/Rits19/heart-failure-survival-analysis">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-312E81?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -173,14 +187,14 @@ A treatment-emergent adverse event summary and listing, built from SDTM data and
 **Result:** my flag matched the official ADAE on all 1,191 events; 94% of high-dose patients had at least one treatment-emergent AE, against 76% on Placebo.
 
 <a href="https://github.com/Rits19/adverse-events-summary-listing">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-312E81?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:EC4899&height=3" width="100%" />
 
 ## 🌱 CURRENT LEARNING
 
@@ -189,28 +203,4 @@ A treatment-emergent adverse event summary and listing, built from SDTM data and
 | SAS | Base SAS programming certification |
 | R | Statistical analysis and reporting |
 | SQL | Queries, joins and aggregations |
-| Clinical Programming | SDTM / ADaM dataset building and TLF development |
-| Statistics | Applying statistical concepts to real trial data |
-
----
-
-## 🤝 LET'S CONNECT
-
-Interested in clinical programming, biostatistics or statistics? I'm happy to connect and learn from the community.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/rits19/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-334155?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:rutujachougale19@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-334155?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<sub>🔍 Careful with data. Clear about the statistics. Always learning.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:312E81,100:111827&height=45&section=footer" width="100%" />
-
-</div>
+| Clinical Programming | SDTM / ADaM dataset
