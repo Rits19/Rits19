@@ -1,65 +1,81 @@
-
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1500&color=8B5CF6&center=true&vCenter=true&repeat=true&width=460&height=60&lines=Hi%2C+I'm+Rutuja+%F0%9F%91%8B" alt="Typing SVG" />
+![Hi, I'm Rutuja 👋](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1500&color=8B5CF6&center=true&vCenter=true&repeat=true&width=460&height=60&lines=Hi%2C+I%27m+Rutuja+%F0%9F%91%8B)
 
-  <p>
-    <i>M.Sc. Statistics</i> &nbsp;·&nbsp; Statistical Programming &nbsp;·&nbsp; Clinical Research
-  </p>
-
-  <p><i>A curious mind, finding meaning in data.</i></p>
-
-  <p>
-    <a href="https://www.linkedin.com/in/rits19/">LinkedIn</a>
-    &nbsp;·&nbsp;
-    <a href="mailto:rutujachougale19@gmail.com">Email</a>
-  </p>
+**Master's in Statistics · Statistical Programming · Clinical Trials**
 
 </div>
 
----
+I work with clinical trial data using **SAS, R and SQL**, following **CDISC SDTM / ADaM** standards, and I check every result twice.
 
-### a little about my work
+## Skills
 
-I'm Rutuja, a Statistics postgraduate interested in the stories, patterns and insights hidden within data.
+<table>
+<tr>
+<td valign="top" width="50%">
 
-My interests lie at the intersection of statistical thinking, data analysis and clinical research. I enjoy exploring how numbers connect to real-world questions and how thoughtful analysis can make information more meaningful.
+**💻 Programming**
+- SAS: DATA step · PROC SQL · MEANS · FREQ · GLM · REPORT · LIFETEST · PHREG
+- R: dplyr · tidyr · survival
+- SQL: queries · joins · aggregations
 
-Currently, I'm learning and experimenting with **R, SAS and SQL**, developing my understanding through practice, exploration and continuous learning.
+</td>
+<td valign="top" width="50%">
 
-### things that interest me
+**🏥 Clinical and statistics**
+- CDISC SDTM · ADaM · TLFs
+- Hypothesis tests · ANOVA · Kaplan–Meier · log-rank · Cox regression
+- Double programming: R vs SAS
 
-| 01 — Statistics | 02 — Data | 03 — Research |
-|:--|:--|:--|
-| Statistical methods | Data exploration | Clinical research |
-| Probability & inference | Analytical thinking | Clinical data concepts |
-| Survival analysis | Data interpretation | Statistical reporting |
+</td>
+</tr>
+</table>
 
-### on my learning desk
+💡**Interested in:**
 
-`R` &nbsp; `SAS` &nbsp; `SQL` &nbsp; `Statistics` &nbsp; `CDISC fundamentals`
+- 🧬 Clinical trial data and CDISC datasets
+- ⚠️ Safety reporting: adverse events, listings, tables
+- ⏳ Survival analysis
+- ✅ Quality control: checking my work in R and SAS
 
-Exploring statistical programming, data manipulation, clinical data structures and reproducible analysis.
+**Growing towards:**
 
-### a little about my work
+- 🧱 Building ADaM datasets (ADSL, BDS, OCCDS)
+- 🧪 SDTM mapping and validation
+- 🧰 SAS macros and reusable TLF programs
+- 📑 Submission-ready outputs and clinical documentation
 
-I use personal and practice-based projects to turn concepts into practical learning experiences - from exploring baseline characteristics to understanding survival analysis.
+## Projects
 
-Each project is an opportunity to apply statistical methods, experiment with programming tools and document what I learn along the way.
+<table>
+<tr>
+<th width="8%" align="center">Sr.&nbsp;No.</th>
+<th width="40%" align="center">Project</th>
+<th width="12%" align="left">Tools</th>
+<th width="40%" align="left">What it shows</th>
+</tr>
+<tr>
+<td align="center" valign="top">1</td>
+<td align="center" valign="top">👥 <a href="https://github.com/Rits19/baseline-demographics-table"><b>Baseline Demographics Table</b></a></td>
+<td valign="top">SAS · R</td>
+<td valign="top">Baseline summary by treatment arm; R and SAS results identical</td>
+</tr>
+<tr>
+<td align="center" valign="top">2</td>
+<td align="center" valign="top">⏳ <a href="https://github.com/Rits19/heart-failure-survival-analysis"><b>Heart Failure Survival Analysis</b></a></td>
+<td valign="top">R · SAS</td>
+<td valign="top">Kaplan–Meier, log-rank and Cox; low ejection fraction linked to worse survival (p = 0.002)</td>
+</tr>
+<tr>
+<td align="center" valign="top">3</td>
+<td align="center" valign="top">⚠️&nbsp;<a href="https://github.com/Rits19/adverse-events-summary-listing"><b>Adverse&nbsp;Events&nbsp;Summary&nbsp;&amp;&nbsp;Listing</b></a></td>
+<td valign="top">SAS · R</td>
+<td valign="top">AE flag built from SDTM; matched the official ADAE on all 1,191 events</td>
+</tr>
+</table>
 
-<sub>My repositories are a collection of these explorations, experiments and learning milestones.</sub>
+🎯**Currently:**
 
----
-
-### a thought I believe in
-
-<div align="center">
-  <i>"Good analysis is not just about finding answers.<br/>
-  It's about asking better questions."</i>
-</div>
-
----
-
-<div align="center">
-  <sub>Learning as I go. One question, one dataset, one discovery at a time.</sub>
-</div>
+- 🎓 Working towards the **SAS Base Programming** certification
+- ⌨️ Practising writing SAS programs from scratch: DATA step, PROC SQL, macros
+- 🤝 Open to **Statistical Programmer**, **Clinical SAS Programmer** and **Biostatistics**
